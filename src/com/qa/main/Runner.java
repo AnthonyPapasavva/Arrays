@@ -1,6 +1,6 @@
 package com.qa.main;
 
-public class runner {
+public class Runner {
 
 	
 	
